@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+    padding: 20px 20px 20px 20px;
+}
+#profilephoto {
+    float: right;
+    width: 25%;
+}
+p {
+    font-size: 24px;
+}
+#main{
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+ul {
+    font-size: 30px;
+}
+.gallery_photo{
+    float: left ;
+    width: 250px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
